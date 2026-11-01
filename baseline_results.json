@@ -1,0 +1,44 @@
+[
+ {
+  "name": "agent tasks | real packets",
+  "n": 36,
+  "acc": 0.2222222222222222,
+  "shuffled_mean": 0.3011111111111111,
+  "p": 0.8562874251497006
+ },
+ {
+  "name": "agent tasks | simulated trace",
+  "n": 36,
+  "acc": 0.3055555555555556,
+  "shuffled_mean": 0.3091666666666667,
+  "p": 0.5548902195608783
+ },
+ {
+  "name": "all with idle | real packets",
+  "n": 48,
+  "acc": 0.3125,
+  "shuffled_mean": 0.22345833333333334,
+  "p": 0.1536926147704591
+ },
+ {
+  "name": "all with idle | simulated trace",
+  "n": 48,
+  "acc": 0.22916666666666666,
+  "shuffled_mean": 0.2280833333333333,
+  "p": 0.5089820359281437
+ },
+ {
+  "name": "agent vs idle | real packets",
+  "n": 48,
+  "acc": 0.7708333333333334,
+  "shuffled_mean": 0.6965416666666667,
+  "p": 0.08183632734530938
+ },
+ {
+  "name": "agent vs idle | simulated trace",
+  "n": 48,
+  "acc": 0.6666666666666666,
+  "shuffled_mean": 0.6767083333333334,
+  "p": 0.6706586826347305
+ }
+]

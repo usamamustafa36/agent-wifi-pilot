@@ -1,0 +1,51 @@
+{"run": 9000, "cls": "chat", "arg": "glass", "start": 1793476172.2808044, "window": 60, "agent_rc": 0, "agent_seconds": 14.840242624282837, "packets": 5828, "file": "9000_chat.csv"}
+{"run": 9001, "cls": "code", "arg": "an LRU cache", "start": 1793476239.322498, "window": 60, "agent_rc": 0, "agent_seconds": 17.032393217086792, "packets": 6262, "file": "9001_code.csv"}
+{"run": 9002, "cls": "web", "arg": "bridges", "start": 1793476305.7292783, "window": 60, "agent_rc": 0, "agent_seconds": 37.27139472961426, "packets": 7615, "file": "9002_web.csv"}
+{"run": 0, "cls": "idle", "arg": "yeast", "start": 1793476388.717133, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 4045, "file": "0000_idle.csv"}
+{"run": 1, "cls": "code", "arg": "a topological sort", "start": 1793476455.1101162, "window": 60, "agent_rc": 0, "agent_seconds": 14.229200839996338, "packets": 5600, "file": "0001_code.csv"}
+{"run": 2, "cls": "chat", "arg": "magnets", "start": 1793476521.4927444, "window": 60, "agent_rc": 0, "agent_seconds": 8.619196653366089, "packets": 3273, "file": "0002_chat.csv"}
+{"run": 3, "cls": "chat", "arg": "coral", "start": 1793476587.8503885, "window": 60, "agent_rc": 0, "agent_seconds": 9.419445753097534, "packets": 3756, "file": "0003_chat.csv"}
+{"run": 4, "cls": "chat", "arg": "clocks", "start": 1793476654.2225046, "window": 60, "agent_rc": 0, "agent_seconds": 9.820610284805298, "packets": 5079, "file": "0004_chat.csv"}
+{"run": 5, "cls": "chat", "arg": "glaciers", "start": 1793476720.609877, "window": 60, "agent_rc": 0, "agent_seconds": 17.638278007507324, "packets": 2433, "file": "0005_chat.csv"}
+{"run": 6, "cls": "code", "arg": "a CSV column summer", "start": 1793476786.952766, "window": 60, "agent_rc": 0, "agent_seconds": 16.434078693389893, "packets": 4762, "file": "0006_code.csv"}
+{"run": 7, "cls": "chat", "arg": "volcanoes", "start": 1793476853.3197103, "window": 60, "agent_rc": 0, "agent_seconds": 13.426412582397461, "packets": 4721, "file": "0007_chat.csv"}
+{"run": 8, "cls": "chat", "arg": "rainbows", "start": 1793476919.6605694, "window": 60, "agent_rc": 0, "agent_seconds": 12.42493462562561, "packets": 6755, "file": "0008_chat.csv"}
+{"run": 9, "cls": "idle", "arg": "paper", "start": 1793476986.0586398, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 2749, "file": "0009_idle.csv"}
+{"run": 10, "cls": "web", "arg": "volcanoes", "start": 1793477052.4045389, "window": 60, "agent_rc": 0, "agent_seconds": 32.261346101760864, "packets": 7986, "file": "0010_web.csv"}
+{"run": 11, "cls": "chat", "arg": "bees", "start": 1793477118.8236666, "window": 60, "agent_rc": 0, "agent_seconds": 14.430291175842285, "packets": 4127, "file": "0011_chat.csv"}
+{"run": 12, "cls": "idle", "arg": "owls", "start": 1793477185.211055, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 2299, "file": "0012_idle.csv"}
+{"run": 13, "cls": "chat", "arg": "lighthouses", "start": 1793477251.564529, "window": 60, "agent_rc": 0, "agent_seconds": 13.82567834854126, "packets": 4469, "file": "0013_chat.csv"}
+{"run": 14, "cls": "web", "arg": "bees", "start": 1793477317.94668, "window": 60, "agent_rc": 0, "agent_seconds": 33.06278848648071, "packets": 7025, "file": "0014_web.csv"}
+{"run": 15, "cls": "idle", "arg": "compasses", "start": 1793477384.3359907, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 3240, "file": "0015_idle.csv"}
+{"run": 16, "cls": "idle", "arg": "bees", "start": 1793477450.6616786, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 3255, "file": "0016_idle.csv"}
+{"run": 17, "cls": "web", "arg": "yeast", "start": 1793477517.0082812, "window": 60, "agent_rc": 0, "agent_seconds": 26.649781942367554, "packets": 5548, "file": "0017_web.csv"}
+{"run": 18, "cls": "chat", "arg": "salt", "start": 1793477583.3859804, "window": 60, "agent_rc": 0, "agent_seconds": 9.620521068572998, "packets": 4955, "file": "0018_chat.csv"}
+{"run": 19, "cls": "code", "arg": "a roman numeral converter", "start": 1793477649.7869327, "window": 60, "agent_rc": 0, "agent_seconds": 17.234458208084106, "packets": 4370, "file": "0019_code.csv"}
+{"run": 20, "cls": "code", "arg": "a base64 encoder", "start": 1793477716.1825657, "window": 60, "agent_rc": 0, "agent_seconds": 14.22754168510437, "packets": 7086, "file": "0020_code.csv"}
+{"run": 21, "cls": "web", "arg": "rainbows", "start": 1793477782.5800853, "window": 60, "agent_rc": 0, "agent_seconds": 35.475783348083496, "packets": 5778, "file": "0021_web.csv"}
+{"run": 22, "cls": "idle", "arg": "rainbows", "start": 1793477848.9877133, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 4041, "file": "0022_idle.csv"}
+{"run": 23, "cls": "web", "arg": "bridges", "start": 1793477915.3575747, "window": 60, "agent_rc": 0, "agent_seconds": 31.66100239753723, "packets": 6719, "file": "0023_web.csv"}
+{"run": 24, "cls": "web", "arg": "compasses", "start": 1793477981.754613, "window": 60, "agent_rc": 0, "agent_seconds": 41.2813606262207, "packets": 7455, "file": "0024_web.csv"}
+{"run": 25, "cls": "code", "arg": "a queue using two stacks", "start": 1793478048.1686468, "window": 60, "agent_rc": 0, "agent_seconds": 12.425048351287842, "packets": 5907, "file": "0025_code.csv"}
+{"run": 26, "cls": "code", "arg": "a prime sieve", "start": 1793478114.5585687, "window": 60, "agent_rc": 0, "agent_seconds": 14.027622938156128, "packets": 4204, "file": "0026_code.csv"}
+{"run": 27, "cls": "chat", "arg": "bridges", "start": 1793478180.9257097, "window": 60, "agent_rc": 0, "agent_seconds": 8.618047952651978, "packets": 2977, "file": "0027_chat.csv"}
+{"run": 28, "cls": "chat", "arg": "compasses", "start": 1793478247.2685444, "window": 60, "agent_rc": 0, "agent_seconds": 13.22629976272583, "packets": 6092, "file": "0028_chat.csv"}
+{"run": 29, "cls": "code", "arg": "an interval merger", "start": 1793478313.6747313, "window": 60, "agent_rc": 0, "agent_seconds": 16.83062243461609, "packets": 4198, "file": "0029_code.csv"}
+{"run": 30, "cls": "code", "arg": "a date parser", "start": 1793478380.0379782, "window": 60, "agent_rc": 0, "agent_seconds": 15.029634237289429, "packets": 7333, "file": "0030_code.csv"}
+{"run": 31, "cls": "web", "arg": "salt", "start": 1793478446.4715707, "window": 60, "agent_rc": 0, "agent_seconds": 57.516653537750244, "packets": 7660, "file": "0031_web.csv"}
+{"run": 32, "cls": "code", "arg": "a Levenshtein distance", "start": 1793478512.8926876, "window": 60, "agent_rc": 0, "agent_seconds": 14.428619623184204, "packets": 4028, "file": "0032_code.csv"}
+{"run": 33, "cls": "web", "arg": "glass", "start": 1793478579.2529905, "window": 60, "agent_rc": 0, "agent_seconds": 28.4562029838562, "packets": 5318, "file": "0033_web.csv"}
+{"run": 34, "cls": "chat", "arg": "tides", "start": 1793478645.6246557, "window": 60, "agent_rc": 0, "agent_seconds": 14.830050706863403, "packets": 4579, "file": "0034_chat.csv"}
+{"run": 35, "cls": "web", "arg": "coral", "start": 1793478711.9835637, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 7491, "file": "0035_web.csv"}
+{"run": 36, "cls": "idle", "arg": "bridges", "start": 1793478778.4045587, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 3257, "file": "0036_idle.csv"}
+{"run": 37, "cls": "web", "arg": "magnets", "start": 1793478844.7541156, "window": 60, "agent_rc": 0, "agent_seconds": 39.88706135749817, "packets": 6295, "file": "0037_web.csv"}
+{"run": 38, "cls": "idle", "arg": "lighthouses", "start": 1793478911.1647081, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 2411, "file": "0038_idle.csv"}
+{"run": 39, "cls": "code", "arg": "a run-length encoder", "start": 1793478977.4988904, "window": 60, "agent_rc": 0, "agent_seconds": 15.42911672592163, "packets": 5907, "file": "0039_code.csv"}
+{"run": 40, "cls": "code", "arg": "an LRU cache", "start": 1793479043.902032, "window": 60, "agent_rc": 0, "agent_seconds": 19.0376193523407, "packets": 6555, "file": "0040_code.csv"}
+{"run": 41, "cls": "code", "arg": "a matrix transpose", "start": 1793479110.2866406, "window": 60, "agent_rc": 0, "agent_seconds": 14.831053733825684, "packets": 3235, "file": "0041_code.csv"}
+{"run": 42, "cls": "idle", "arg": "clocks", "start": 1793479176.6405358, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 2857, "file": "0042_idle.csv"}
+{"run": 43, "cls": "idle", "arg": "coral", "start": 1793479242.9956896, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 4300, "file": "0043_idle.csv"}
+{"run": 44, "cls": "web", "arg": "paper", "start": 1793479309.3796003, "window": 60, "agent_rc": 0, "agent_seconds": 26.856405019760132, "packets": 5578, "file": "0044_web.csv"}
+{"run": 45, "cls": "web", "arg": "owls", "start": 1793479375.7868934, "window": 60, "agent_rc": 0, "agent_seconds": 43.498252153396606, "packets": 5558, "file": "0045_web.csv"}
+{"run": 46, "cls": "idle", "arg": "tides", "start": 1793479442.1819828, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 5187, "file": "0046_idle.csv"}
+{"run": 47, "cls": "idle", "arg": "glass", "start": 1793479508.5806584, "window": 60, "agent_rc": null, "agent_seconds": null, "packets": 3739, "file": "0047_idle.csv"}

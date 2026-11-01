@@ -1,0 +1,210 @@
+{'run': 0, 'cls': 'chat', 'arg': 'lighthouses', 'start': 1793481568.3175964, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.81914734840393, 'packets': 1561, 'file': '0000_chat.csv'}
+{'run': 1, 'cls': 'web', 'arg': 'tides', 'start': 1793481594.5726173, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1676, 'file': '0001_web.csv'}
+{'run': 2, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793481620.8356411, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5873, 'file': '0002_browse.csv'}
+{'run': 3, 'cls': 'web', 'arg': 'glaciers', 'start': 1793481647.1537232, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2199, 'file': '0003_web.csv'}
+{'run': 4, 'cls': 'code', 'arg': 'a base64 encoder', 'start': 1793481673.408834, 'window': 20, 'agent_rc': 0, 'agent_seconds': 18.036433696746826, 'packets': 1803, 'file': '0004_code.csv'}
+{'run': 5, 'cls': 'web', 'arg': 'rainbows', 'start': 1793481699.677994, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1740, 'file': '0005_web.csv'}
+{'run': 6, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793481725.9426591, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7449, 'file': '0006_browse.csv'}
+{'run': 7, 'cls': 'download', 'arg': '256K', 'start': 1793481752.2823052, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2776, 'file': '0007_download.csv'}
+{'run': 8, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793481778.5692496, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7242, 'file': '0008_video.csv'}
+{'run': 9, 'cls': 'download', 'arg': '256K', 'start': 1793481804.8881412, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2945, 'file': '0009_download.csv'}
+{'run': 10, 'cls': 'code', 'arg': 'a Levenshtein distance', 'start': 1793481831.1618247, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.82723355293274, 'packets': 1350, 'file': '0010_code.csv'}
+{'run': 11, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793481857.435709, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7681, 'file': '0011_browse.csv'}
+{'run': 12, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793481883.7916028, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7540, 'file': '0012_video.csv'}
+{'run': 13, 'cls': 'code', 'arg': 'a matrix transpose', 'start': 1793481910.1176815, 'window': 20, 'agent_rc': 0, 'agent_seconds': 15.835795402526855, 'packets': 1551, 'file': '0013_code.csv'}
+{'run': 14, 'cls': 'chat', 'arg': 'glass', 'start': 1793481936.3760376, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.420810461044312, 'packets': 1638, 'file': '0014_chat.csv'}
+{'run': 15, 'cls': 'code', 'arg': 'a CSV column summer', 'start': 1793481962.637109, 'window': 20, 'agent_rc': 0, 'agent_seconds': 18.43647336959839, 'packets': 1809, 'file': '0015_code.csv'}
+{'run': 16, 'cls': 'web', 'arg': 'rainbows', 'start': 1793481988.9017894, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1724, 'file': '0016_web.csv'}
+{'run': 17, 'cls': 'chat', 'arg': 'volcanoes', 'start': 1793482015.169576, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.230301856994629, 'packets': 1477, 'file': '0017_chat.csv'}
+{'run': 18, 'cls': 'idle', 'arg': 'rainbows', 'start': 1793482041.4313085, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 69, 'file': '0018_idle.csv'}
+{'run': 19, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793482067.667049, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7515, 'file': '0019_video.csv'}
+{'run': 20, 'cls': 'code', 'arg': 'a matrix transpose', 'start': 1793482093.9760559, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.627639770507812, 'packets': 1407, 'file': '0020_code.csv'}
+{'run': 21, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793482120.2227623, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 6199, 'file': '0021_browse.csv'}
+{'run': 22, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793482146.535703, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7617, 'file': '0022_video.csv'}
+{'run': 23, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793482172.8524199, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7537, 'file': '0023_video.csv'}
+{'run': 24, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793482199.1676264, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8155, 'file': '0024_video.csv'}
+{'run': 25, 'cls': 'code', 'arg': 'a Levenshtein distance', 'start': 1793482225.4945924, 'window': 20, 'agent_rc': 0, 'agent_seconds': 14.429633378982544, 'packets': 1551, 'file': '0025_code.csv'}
+{'run': 26, 'cls': 'web', 'arg': 'clocks', 'start': 1793482251.7631834, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1786, 'file': '0026_web.csv'}
+{'run': 27, 'cls': 'code', 'arg': 'a bracket checker', 'start': 1793482278.0232465, 'window': 20, 'agent_rc': 0, 'agent_seconds': 17.435697317123413, 'packets': 1773, 'file': '0027_code.csv'}
+{'run': 28, 'cls': 'idle', 'arg': 'glaciers', 'start': 1793482304.283181, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 66, 'file': '0028_idle.csv'}
+{'run': 29, 'cls': 'code', 'arg': 'an interval merger', 'start': 1793482330.518823, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.828467607498169, 'packets': 1425, 'file': '0029_code.csv'}
+{'run': 30, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793482356.811838, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1727, 'file': '0030_browse.csv'}
+{'run': 31, 'cls': 'idle', 'arg': 'owls', 'start': 1793482383.0735333, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 47, 'file': '0031_idle.csv'}
+{'run': 32, 'cls': 'download', 'arg': '256K', 'start': 1793482409.3108642, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2648, 'file': '0032_download.csv'}
+{'run': 33, 'cls': 'idle', 'arg': 'volcanoes', 'start': 1793482435.5629318, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 28, 'file': '0033_idle.csv'}
+{'run': 34, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793482461.8101668, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 3426, 'file': '0034_browse.csv'}
+{'run': 35, 'cls': 'idle', 'arg': 'bees', 'start': 1793482488.083976, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 168, 'file': '0035_idle.csv'}
+{'run': 36, 'cls': 'idle', 'arg': 'magnets', 'start': 1793482514.326564, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 146, 'file': '0036_idle.csv'}
+{'run': 37, 'cls': 'idle', 'arg': 'volcanoes', 'start': 1793482540.5318162, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 97, 'file': '0037_idle.csv'}
+{'run': 38, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793482566.780705, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1680, 'file': '0038_browse.csv'}
+{'run': 39, 'cls': 'download', 'arg': '512K', 'start': 1793482593.0507028, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4970, 'file': '0039_download.csv'}
+{'run': 40, 'cls': 'web', 'arg': 'magnets', 'start': 1793482619.3434634, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2109, 'file': '0040_web.csv'}
+{'run': 41, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793482645.606983, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7624, 'file': '0041_video.csv'}
+{'run': 42, 'cls': 'idle', 'arg': 'salt', 'start': 1793482671.9346719, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 65, 'file': '0042_idle.csv'}
+{'run': 43, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793482698.1834736, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8104, 'file': '0043_video.csv'}
+{'run': 44, 'cls': 'web', 'arg': 'yeast', 'start': 1793482724.5030103, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1761, 'file': '0044_web.csv'}
+{'run': 45, 'cls': 'idle', 'arg': 'bridges', 'start': 1793482750.783545, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 197, 'file': '0045_idle.csv'}
+{'run': 46, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793482776.9987125, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8218, 'file': '0046_video.csv'}
+{'run': 47, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793482803.316117, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1696, 'file': '0047_browse.csv'}
+{'run': 48, 'cls': 'code', 'arg': 'a prime sieve', 'start': 1793482829.5747218, 'window': 20, 'agent_rc': 0, 'agent_seconds': 14.633737802505493, 'packets': 1531, 'file': '0048_code.csv'}
+{'run': 49, 'cls': 'idle', 'arg': 'glass', 'start': 1793482855.8455613, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 66, 'file': '0049_idle.csv'}
+{'run': 50, 'cls': 'download', 'arg': '256K', 'start': 1793482882.0898159, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2803, 'file': '0050_download.csv'}
+{'run': 51, 'cls': 'idle', 'arg': 'rainbows', 'start': 1793482908.367206, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 105, 'file': '0051_idle.csv'}
+{'run': 52, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793482934.580547, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7679, 'file': '0052_video.csv'}
+{'run': 53, 'cls': 'web', 'arg': 'coral', 'start': 1793482960.9036984, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1918, 'file': '0053_web.csv'}
+{'run': 54, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793482987.1676834, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 988, 'file': '0054_video.csv'}
+{'run': 55, 'cls': 'download', 'arg': '512K', 'start': 1793483013.4137664, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4957, 'file': '0055_download.csv'}
+{'run': 56, 'cls': 'chat', 'arg': 'glaciers', 'start': 1793483039.7120454, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.620582342147827, 'packets': 1522, 'file': '0056_chat.csv'}
+{'run': 57, 'cls': 'chat', 'arg': 'yeast', 'start': 1793483065.9774907, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.82772445678711, 'packets': 1407, 'file': '0057_chat.csv'}
+{'run': 58, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793483092.2346475, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 984, 'file': '0058_video.csv'}
+{'run': 59, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793483118.4837263, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5929, 'file': '0059_browse.csv'}
+{'run': 60, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793483144.7757223, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 10424, 'file': '0060_browse.csv'}
+{'run': 61, 'cls': 'download', 'arg': '512K', 'start': 1793483171.1255772, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4824, 'file': '0061_download.csv'}
+{'run': 62, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793483197.411234, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 951, 'file': '0062_video.csv'}
+{'run': 63, 'cls': 'code', 'arg': 'a date parser', 'start': 1793483223.6616962, 'window': 20, 'agent_rc': 0, 'agent_seconds': 18.43897819519043, 'packets': 1998, 'file': '0063_code.csv'}
+{'run': 64, 'cls': 'code', 'arg': 'a run-length encoder', 'start': 1793483249.928526, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1463, 'file': '0064_code.csv'}
+{'run': 65, 'cls': 'download', 'arg': '512K', 'start': 1793483276.171114, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4891, 'file': '0065_download.csv'}
+{'run': 66, 'cls': 'code', 'arg': 'an interval merger', 'start': 1793483302.4674568, 'window': 20, 'agent_rc': 0, 'agent_seconds': 15.031214237213135, 'packets': 1476, 'file': '0066_code.csv'}
+{'run': 67, 'cls': 'web', 'arg': 'bees', 'start': 1793483328.7160246, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1779, 'file': '0067_web.csv'}
+{'run': 68, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793483354.9868367, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5995, 'file': '0068_browse.csv'}
+{'run': 69, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793483381.300558, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 6230, 'file': '0069_browse.csv'}
+{'run': 70, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793483407.6104693, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5822, 'file': '0070_browse.csv'}
+{'run': 71, 'cls': 'idle', 'arg': 'coral', 'start': 1793483433.928744, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 22, 'file': '0071_idle.csv'}
+{'run': 72, 'cls': 'web', 'arg': 'owls', 'start': 1793483460.159268, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1606, 'file': '0072_web.csv'}
+{'run': 73, 'cls': 'code', 'arg': 'a queue using two stacks', 'start': 1793483486.4302006, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.024964094161987, 'packets': 1576, 'file': '0073_code.csv'}
+{'run': 74, 'cls': 'web', 'arg': 'glass', 'start': 1793483512.686077, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1760, 'file': '0074_web.csv'}
+{'run': 75, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793483538.942744, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1006, 'file': '0075_video.csv'}
+{'run': 76, 'cls': 'download', 'arg': '256K', 'start': 1793483565.2030468, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2709, 'file': '0076_download.csv'}
+{'run': 77, 'cls': 'download', 'arg': '512K', 'start': 1793483591.485691, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4878, 'file': '0077_download.csv'}
+{'run': 78, 'cls': 'download', 'arg': '256K', 'start': 1793483617.7668443, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2742, 'file': '0078_download.csv'}
+{'run': 79, 'cls': 'download', 'arg': '512K', 'start': 1793483644.0326567, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5046, 'file': '0079_download.csv'}
+{'run': 80, 'cls': 'chat', 'arg': 'rainbows', 'start': 1793483670.3095076, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.226276397705078, 'packets': 1478, 'file': '0080_chat.csv'}
+{'run': 81, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793483696.5775652, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8018, 'file': '0081_video.csv'}
+{'run': 82, 'cls': 'chat', 'arg': 'rainbows', 'start': 1793483722.8756304, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.83027958869934, 'packets': 1441, 'file': '0082_chat.csv'}
+{'run': 83, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793483749.1532788, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7336, 'file': '0083_browse.csv'}
+{'run': 84, 'cls': 'idle', 'arg': 'lighthouses', 'start': 1793483775.4848716, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 55, 'file': '0084_idle.csv'}
+{'run': 85, 'cls': 'download', 'arg': '256K', 'start': 1793483801.720866, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2692, 'file': '0085_download.csv'}
+{'run': 86, 'cls': 'web', 'arg': 'compasses', 'start': 1793483827.9979544, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1522, 'file': '0086_web.csv'}
+{'run': 87, 'cls': 'download', 'arg': '256K', 'start': 1793483854.266122, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2658, 'file': '0087_download.csv'}
+{'run': 88, 'cls': 'idle', 'arg': 'glass', 'start': 1793483880.5318522, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 30, 'file': '0088_idle.csv'}
+{'run': 89, 'cls': 'download', 'arg': '512K', 'start': 1793483906.7734494, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4887, 'file': '0089_download.csv'}
+{'run': 90, 'cls': 'idle', 'arg': 'lighthouses', 'start': 1793483933.0694408, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 26, 'file': '0090_idle.csv'}
+{'run': 91, 'cls': 'idle', 'arg': 'coral', 'start': 1793483959.3067129, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 34, 'file': '0091_idle.csv'}
+{'run': 92, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793483985.5411994, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5612, 'file': '0092_browse.csv'}
+{'run': 93, 'cls': 'code', 'arg': 'a CSV column summer', 'start': 1793484011.8477755, 'window': 20, 'agent_rc': 0, 'agent_seconds': 16.431060552597046, 'packets': 1799, 'file': '0093_code.csv'}
+{'run': 94, 'cls': 'chat', 'arg': 'coral', 'start': 1793484038.092662, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.820381879806519, 'packets': 1475, 'file': '0094_chat.csv'}
+{'run': 95, 'cls': 'code', 'arg': 'an LRU cache', 'start': 1793484064.3317049, 'window': 20, 'agent_rc': 0, 'agent_seconds': 16.431640625, 'packets': 1640, 'file': '0095_code.csv'}
+{'run': 96, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793484090.5966887, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4589, 'file': '0096_browse.csv'}
+{'run': 97, 'cls': 'download', 'arg': '256K', 'start': 1793484116.8785932, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2690, 'file': '0097_download.csv'}
+{'run': 98, 'cls': 'code', 'arg': 'a topological sort', 'start': 1793484143.15481, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.229990482330322, 'packets': 1481, 'file': '0098_code.csv'}
+{'run': 99, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793484169.4195616, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8028, 'file': '0099_video.csv'}
+{'run': 100, 'cls': 'web', 'arg': 'volcanoes', 'start': 1793484195.7479055, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1907, 'file': '0100_web.csv'}
+{'run': 101, 'cls': 'web', 'arg': 'glass', 'start': 1793484222.0436614, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1775, 'file': '0101_web.csv'}
+{'run': 102, 'cls': 'chat', 'arg': 'paper', 'start': 1793484248.3109143, 'window': 20, 'agent_rc': 0, 'agent_seconds': 10.421893119812012, 'packets': 1542, 'file': '0102_chat.csv'}
+{'run': 103, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793484274.579088, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8349, 'file': '0103_video.csv'}
+{'run': 104, 'cls': 'code', 'arg': 'an LRU cache', 'start': 1793484300.9046695, 'window': 20, 'agent_rc': 0, 'agent_seconds': 17.437390327453613, 'packets': 1820, 'file': '0104_code.csv'}
+{'run': 105, 'cls': 'chat', 'arg': 'owls', 'start': 1793484327.1756299, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.62633228302002, 'packets': 1566, 'file': '0105_chat.csv'}
+{'run': 106, 'cls': 'chat', 'arg': 'salt', 'start': 1793484353.4471576, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.821128606796265, 'packets': 1561, 'file': '0106_chat.csv'}
+{'run': 107, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793484379.7099626, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8204, 'file': '0107_video.csv'}
+{'run': 108, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793484406.030554, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5400, 'file': '0108_browse.csv'}
+{'run': 109, 'cls': 'idle', 'arg': 'magnets', 'start': 1793484432.3426678, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 56, 'file': '0109_idle.csv'}
+{'run': 110, 'cls': 'web', 'arg': 'lighthouses', 'start': 1793484458.5920894, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1851, 'file': '0110_web.csv'}
+{'run': 111, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793484484.8446922, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1779, 'file': '0111_browse.csv'}
+{'run': 112, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793484511.1007738, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 6146, 'file': '0112_browse.csv'}
+{'run': 113, 'cls': 'web', 'arg': 'owls', 'start': 1793484537.4053288, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1665, 'file': '0113_web.csv'}
+{'run': 114, 'cls': 'idle', 'arg': 'paper', 'start': 1793484563.6672387, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 54, 'file': '0114_idle.csv'}
+{'run': 115, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793484589.9106078, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8135, 'file': '0115_video.csv'}
+{'run': 116, 'cls': 'idle', 'arg': 'owls', 'start': 1793484616.241641, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 107, 'file': '0116_idle.csv'}
+{'run': 117, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793484642.4779532, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7913, 'file': '0117_video.csv'}
+{'run': 118, 'cls': 'code', 'arg': 'a date parser', 'start': 1793484668.7877104, 'window': 20, 'agent_rc': 0, 'agent_seconds': 19.43941593170166, 'packets': 1960, 'file': '0118_code.csv'}
+{'run': 119, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793484695.050431, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8751, 'file': '0119_video.csv'}
+{'run': 120, 'cls': 'code', 'arg': 'a prime sieve', 'start': 1793484721.3857045, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.026983499526978, 'packets': 1424, 'file': '0120_code.csv'}
+{'run': 121, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793484747.6408906, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8034, 'file': '0121_video.csv'}
+{'run': 122, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793484773.9611022, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5371, 'file': '0122_browse.csv'}
+{'run': 123, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793484800.275695, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8564, 'file': '0123_video.csv'}
+{'run': 124, 'cls': 'idle', 'arg': 'clocks', 'start': 1793484826.598769, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 92, 'file': '0124_idle.csv'}
+{'run': 125, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793484852.8192768, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5457, 'file': '0125_browse.csv'}
+{'run': 126, 'cls': 'web', 'arg': 'paper', 'start': 1793484879.136404, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1630, 'file': '0126_web.csv'}
+{'run': 127, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793484905.3806617, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8055, 'file': '0127_video.csv'}
+{'run': 128, 'cls': 'web', 'arg': 'salt', 'start': 1793484931.7018356, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1754, 'file': '0128_web.csv'}
+{'run': 129, 'cls': 'chat', 'arg': 'volcanoes', 'start': 1793484957.9675424, 'window': 20, 'agent_rc': 0, 'agent_seconds': 16.433766841888428, 'packets': 1330, 'file': '0129_chat.csv'}
+{'run': 130, 'cls': 'idle', 'arg': 'paper', 'start': 1793484984.2296793, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 28, 'file': '0130_idle.csv'}
+{'run': 131, 'cls': 'web', 'arg': 'paper', 'start': 1793485010.478756, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1835, 'file': '0131_web.csv'}
+{'run': 132, 'cls': 'web', 'arg': 'tides', 'start': 1793485036.7185562, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1647, 'file': '0132_web.csv'}
+{'run': 133, 'cls': 'chat', 'arg': 'compasses', 'start': 1793485062.9935026, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.816809892654419, 'packets': 1366, 'file': '0133_chat.csv'}
+{'run': 134, 'cls': 'web', 'arg': 'bees', 'start': 1793485089.2599337, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1673, 'file': '0134_web.csv'}
+{'run': 135, 'cls': 'chat', 'arg': 'magnets', 'start': 1793485115.5252097, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.424025058746338, 'packets': 1312, 'file': '0135_chat.csv'}
+{'run': 136, 'cls': 'chat', 'arg': 'glass', 'start': 1793485141.7753808, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.027496576309204, 'packets': 1374, 'file': '0136_chat.csv'}
+{'run': 137, 'cls': 'code', 'arg': 'a run-length encoder', 'start': 1793485168.0433586, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.225677967071533, 'packets': 1503, 'file': '0137_code.csv'}
+{'run': 138, 'cls': 'download', 'arg': '512K', 'start': 1793485194.2900493, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4791, 'file': '0138_download.csv'}
+{'run': 139, 'cls': 'chat', 'arg': 'bees', 'start': 1793485220.582737, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.417096614837646, 'packets': 1344, 'file': '0139_chat.csv'}
+{'run': 140, 'cls': 'video', 'arg': 'aqz-KE-bpKQ', 'start': 1793485246.8414886, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8260, 'file': '0140_video.csv'}
+{'run': 141, 'cls': 'chat', 'arg': 'paper', 'start': 1793485273.1775608, 'window': 20, 'agent_rc': 0, 'agent_seconds': 10.623096942901611, 'packets': 1466, 'file': '0141_chat.csv'}
+{'run': 142, 'cls': 'download', 'arg': '512K', 'start': 1793485299.4309509, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4889, 'file': '0142_download.csv'}
+{'run': 143, 'cls': 'code', 'arg': 'a queue using two stacks', 'start': 1793485325.7289326, 'window': 20, 'agent_rc': 0, 'agent_seconds': 14.631953477859497, 'packets': 1332, 'file': '0143_code.csv'}
+{'run': 144, 'cls': 'code', 'arg': 'a word counter', 'start': 1793485351.984555, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.426188707351685, 'packets': 1392, 'file': '0144_code.csv'}
+{'run': 145, 'cls': 'code', 'arg': 'a binary search', 'start': 1793485378.241498, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.025551557540894, 'packets': 1431, 'file': '0145_code.csv'}
+{'run': 146, 'cls': 'web', 'arg': 'clocks', 'start': 1793485404.5086179, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1947, 'file': '0146_web.csv'}
+{'run': 147, 'cls': 'video', 'arg': 'YE7VzlLtp-4', 'start': 1793485430.7722151, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7480, 'file': '0147_video.csv'}
+{'run': 148, 'cls': 'chat', 'arg': 'tides', 'start': 1793485457.076572, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.827499628067017, 'packets': 1356, 'file': '0148_chat.csv'}
+{'run': 149, 'cls': 'chat', 'arg': 'glaciers', 'start': 1793485483.3276737, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.224826335906982, 'packets': 1475, 'file': '0149_chat.csv'}
+{'run': 150, 'cls': 'download', 'arg': '256K', 'start': 1793485509.5990212, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2725, 'file': '0150_download.csv'}
+{'run': 151, 'cls': 'chat', 'arg': 'magnets', 'start': 1793485535.8702462, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.227234363555908, 'packets': 1336, 'file': '0151_chat.csv'}
+{'run': 152, 'cls': 'chat', 'arg': 'salt', 'start': 1793485562.126202, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.628856182098389, 'packets': 1409, 'file': '0152_chat.csv'}
+{'run': 153, 'cls': 'chat', 'arg': 'tides', 'start': 1793485588.379571, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.219660520553589, 'packets': 1458, 'file': '0153_chat.csv'}
+{'run': 154, 'cls': 'chat', 'arg': 'lighthouses', 'start': 1793485614.6467016, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.620422840118408, 'packets': 1444, 'file': '0154_chat.csv'}
+{'run': 155, 'cls': 'web', 'arg': 'bridges', 'start': 1793485640.895706, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1555, 'file': '0155_web.csv'}
+{'run': 156, 'cls': 'code', 'arg': 'a roman numeral converter', 'start': 1793485667.165664, 'window': 20, 'agent_rc': 0, 'agent_seconds': 19.636502504348755, 'packets': 1998, 'file': '0156_code.csv'}
+{'run': 157, 'cls': 'download', 'arg': '256K', 'start': 1793485693.4285839, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2716, 'file': '0157_download.csv'}
+{'run': 158, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793485719.6967282, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8354, 'file': '0158_video.csv'}
+{'run': 159, 'cls': 'chat', 'arg': 'clocks', 'start': 1793485746.0249944, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.228203296661377, 'packets': 1398, 'file': '0159_chat.csv'}
+{'run': 160, 'cls': 'chat', 'arg': 'yeast', 'start': 1793485772.2842171, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.818536043167114, 'packets': 1402, 'file': '0160_chat.csv'}
+{'run': 161, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793485798.5505626, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8366, 'file': '0161_video.csv'}
+{'run': 162, 'cls': 'idle', 'arg': 'clocks', 'start': 1793485824.8688738, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 72, 'file': '0162_idle.csv'}
+{'run': 163, 'cls': 'idle', 'arg': 'yeast', 'start': 1793485851.0885005, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 15, 'file': '0163_idle.csv'}
+{'run': 164, 'cls': 'web', 'arg': 'salt', 'start': 1793485877.3257303, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1705, 'file': '0164_web.csv'}
+{'run': 165, 'cls': 'idle', 'arg': 'yeast', 'start': 1793485903.6005647, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 74, 'file': '0165_idle.csv'}
+{'run': 166, 'cls': 'code', 'arg': 'a topological sort', 'start': 1793485929.834225, 'window': 20, 'agent_rc': 0, 'agent_seconds': 14.028753519058228, 'packets': 1460, 'file': '0166_code.csv'}
+{'run': 167, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793485956.1029432, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5929, 'file': '0167_browse.csv'}
+{'run': 168, 'cls': 'download', 'arg': '256K', 'start': 1793485982.4026632, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2708, 'file': '0168_download.csv'}
+{'run': 169, 'cls': 'code', 'arg': 'a histogram printer', 'start': 1793486008.6740546, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1637, 'file': '0169_code.csv'}
+{'run': 170, 'cls': 'download', 'arg': '512K', 'start': 1793486034.9234405, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4940, 'file': '0170_download.csv'}
+{'run': 171, 'cls': 'web', 'arg': 'glaciers', 'start': 1793486061.1977038, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1682, 'file': '0171_web.csv'}
+{'run': 172, 'cls': 'chat', 'arg': 'compasses', 'start': 1793486087.4609194, 'window': 20, 'agent_rc': 0, 'agent_seconds': 11.222091913223267, 'packets': 1636, 'file': '0172_chat.csv'}
+{'run': 173, 'cls': 'download', 'arg': '512K', 'start': 1793486113.719693, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4986, 'file': '0173_download.csv'}
+{'run': 174, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793486140.0132692, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1794, 'file': '0174_browse.csv'}
+{'run': 175, 'cls': 'chat', 'arg': 'bridges', 'start': 1793486166.2761033, 'window': 20, 'agent_rc': 0, 'agent_seconds': 9.41936731338501, 'packets': 1428, 'file': '0175_chat.csv'}
+{'run': 176, 'cls': 'chat', 'arg': 'bees', 'start': 1793486192.5436285, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.217163562774658, 'packets': 1455, 'file': '0176_chat.csv'}
+{'run': 177, 'cls': 'code', 'arg': 'a binary search', 'start': 1793486218.7901242, 'window': 20, 'agent_rc': 0, 'agent_seconds': 11.62807035446167, 'packets': 1503, 'file': '0177_code.csv'}
+{'run': 178, 'cls': 'chat', 'arg': 'coral', 'start': 1793486245.0428085, 'window': 20, 'agent_rc': 0, 'agent_seconds': 13.831099033355713, 'packets': 1395, 'file': '0178_chat.csv'}
+{'run': 179, 'cls': 'web', 'arg': 'compasses', 'start': 1793486271.2801218, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1682, 'file': '0179_web.csv'}
+{'run': 180, 'cls': 'chat', 'arg': 'owls', 'start': 1793486297.5448666, 'window': 20, 'agent_rc': 0, 'agent_seconds': 8.818713426589966, 'packets': 1342, 'file': '0180_chat.csv'}
+{'run': 181, 'cls': 'download', 'arg': '512K', 'start': 1793486323.813256, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4880, 'file': '0181_download.csv'}
+{'run': 182, 'cls': 'download', 'arg': '512K', 'start': 1793486350.1127474, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5022, 'file': '0182_download.csv'}
+{'run': 183, 'cls': 'video', 'arg': 'eRsGyueVLvQ', 'start': 1793486376.4052553, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 7590, 'file': '0183_video.csv'}
+{'run': 184, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793486402.7397194, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1667, 'file': '0184_browse.csv'}
+{'run': 185, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793486429.0002744, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 11242, 'file': '0185_browse.csv'}
+{'run': 186, 'cls': 'code', 'arg': 'a bracket checker', 'start': 1793486455.377665, 'window': 20, 'agent_rc': 0, 'agent_seconds': 15.832641363143921, 'packets': 1526, 'file': '0186_code.csv'}
+{'run': 187, 'cls': 'idle', 'arg': 'compasses', 'start': 1793486481.6240003, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 65, 'file': '0187_idle.csv'}
+{'run': 188, 'cls': 'idle', 'arg': 'bees', 'start': 1793486507.86371, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 99, 'file': '0188_idle.csv'}
+{'run': 189, 'cls': 'video', 'arg': 'TLkA0RELQ1g', 'start': 1793486534.0978494, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 8444, 'file': '0189_video.csv'}
+{'run': 190, 'cls': 'download', 'arg': '256K', 'start': 1793486560.434674, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2720, 'file': '0190_download.csv'}
+{'run': 191, 'cls': 'idle', 'arg': 'compasses', 'start': 1793486586.717953, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 53, 'file': '0191_idle.csv'}
+{'run': 192, 'cls': 'download', 'arg': '256K', 'start': 1793486612.9727173, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2681, 'file': '0192_download.csv'}
+{'run': 193, 'cls': 'idle', 'arg': 'tides', 'start': 1793486639.248738, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 54, 'file': '0193_idle.csv'}
+{'run': 194, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793486665.487659, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5415, 'file': '0194_browse.csv'}
+{'run': 195, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bee|https://www.aljazeera.com/|https://www.python.org/|https://www.un.org/', 'start': 1793486691.7773833, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1715, 'file': '0195_browse.csv'}
+{'run': 196, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Tide|https://www.bbc.com/news|https://www.gutenberg.org/|https://www.nasa.gov/', 'start': 1793486718.0317461, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 6056, 'file': '0196_browse.csv'}
+{'run': 197, 'cls': 'idle', 'arg': 'tides', 'start': 1793486744.3397768, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 17, 'file': '0197_idle.csv'}
+{'run': 198, 'cls': 'web', 'arg': 'yeast', 'start': 1793486770.5766587, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1783, 'file': '0198_web.csv'}
+{'run': 199, 'cls': 'web', 'arg': 'bridges', 'start': 1793486796.8451204, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1572, 'file': '0199_web.csv'}
+{'run': 200, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Bridge|https://www.reuters.com/|https://arxiv.org/|https://www.who.int/', 'start': 1793486823.119869, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5348, 'file': '0200_browse.csv'}
+{'run': 201, 'cls': 'idle', 'arg': 'bridges', 'start': 1793486849.4205284, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 101, 'file': '0201_idle.csv'}
+{'run': 202, 'cls': 'web', 'arg': 'lighthouses', 'start': 1793486875.6610925, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1738, 'file': '0202_web.csv'}
+{'run': 203, 'cls': 'download', 'arg': '512K', 'start': 1793486901.9257588, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5135, 'file': '0203_download.csv'}
+{'run': 204, 'cls': 'code', 'arg': 'a histogram printer', 'start': 1793486928.2246487, 'window': 20, 'agent_rc': 0, 'agent_seconds': 19.43906283378601, 'packets': 1953, 'file': '0204_code.csv'}
+{'run': 205, 'cls': 'download', 'arg': '512K', 'start': 1793486954.5336664, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 4797, 'file': '0205_download.csv'}
+{'run': 206, 'cls': 'web', 'arg': 'magnets', 'start': 1793486980.8262987, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 1671, 'file': '0206_web.csv'}
+{'run': 207, 'cls': 'code', 'arg': 'a word counter', 'start': 1793487007.1055777, 'window': 20, 'agent_rc': 0, 'agent_seconds': 12.828036785125732, 'packets': 1364, 'file': '0207_code.csv'}
+{'run': 208, 'cls': 'download', 'arg': '256K', 'start': 1793487033.364253, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 2705, 'file': '0208_download.csv'}
+{'run': 209, 'cls': 'browse', 'arg': 'https://en.wikipedia.org/wiki/Glass|https://www.dawn.com/|https://github.com/|https://www.nature.com/', 'start': 1793487059.625764, 'window': 20, 'agent_rc': None, 'agent_seconds': None, 'packets': 5494, 'file': '0209_browse.csv'}

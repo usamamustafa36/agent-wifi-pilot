@@ -1,0 +1,180 @@
+{
+ "clean": {
+  "29": 0.7555555555555555,
+  "133": 0.7777777777777778
+ },
+ "results": [
+  {
+   "defense": "tail_steady",
+   "attacker": "29",
+   "not_retrained": 0.4222222222222222,
+   "retrained": 0.6222222222222222,
+   "shuffled": 0.3511111111111111,
+   "p": 0.009950248756218905,
+   "holds": false,
+   "extra_mb": 0.19690222222222223
+  },
+  {
+   "defense": "tail_steady",
+   "attacker": "133",
+   "not_retrained": 0.5222222222222223,
+   "retrained": 0.6333333333333333,
+   "shuffled": 0.34827777777777785,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.19690222222222223
+  },
+  {
+   "defense": "random_same_as_tail_steady",
+   "attacker": "29",
+   "not_retrained": 0.7,
+   "retrained": 0.7555555555555555,
+   "shuffled": 0.3432222222222222,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.19690222222222223
+  },
+  {
+   "defense": "random_same_as_tail_steady",
+   "attacker": "133",
+   "not_retrained": 0.6333333333333333,
+   "retrained": 0.7888888888888889,
+   "shuffled": 0.3387777777777778,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.19690222222222223
+  },
+  {
+   "comparison": "tail_steady minus random",
+   "attacker": "29",
+   "diff": -0.1333333333333333,
+   "ci": [
+    -0.24444444444444446,
+    -0.022222222222222254
+   ],
+   "better": true
+  },
+  {
+   "comparison": "tail_steady minus random",
+   "attacker": "133",
+   "diff": -0.15555555555555556,
+   "ci": [
+    -0.2777777777777778,
+    -0.033333333333333326
+   ],
+   "better": true
+  },
+  {
+   "defense": "tail_replay",
+   "attacker": "29",
+   "not_retrained": 0.4666666666666667,
+   "retrained": 0.4444444444444444,
+   "shuffled": 0.3417777777777778,
+   "p": 0.05970149253731343,
+   "holds": true,
+   "extra_mb": 0.04590531111111111
+  },
+  {
+   "defense": "tail_replay",
+   "attacker": "133",
+   "not_retrained": 0.5555555555555556,
+   "retrained": 0.6,
+   "shuffled": 0.33894444444444444,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.04590531111111111
+  },
+  {
+   "defense": "random_same_as_tail_replay",
+   "attacker": "29",
+   "not_retrained": 0.7666666666666667,
+   "retrained": 0.7666666666666667,
+   "shuffled": 0.3436666666666667,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.04590531111111111
+  },
+  {
+   "defense": "random_same_as_tail_replay",
+   "attacker": "133",
+   "not_retrained": 0.7333333333333333,
+   "retrained": 0.7555555555555555,
+   "shuffled": 0.33805555555555555,
+   "p": 0.004975124378109453,
+   "holds": false,
+   "extra_mb": 0.04590531111111111
+  },
+  {
+   "comparison": "tail_replay minus random",
+   "attacker": "29",
+   "diff": -0.3222222222222223,
+   "ci": [
+    -0.4444444444444444,
+    -0.20000000000000007
+   ],
+   "better": true
+  },
+  {
+   "comparison": "tail_replay minus random",
+   "attacker": "133",
+   "diff": -0.15555555555555556,
+   "ci": [
+    -0.2669444444444444,
+    -0.0444444444444444
+   ],
+   "better": true
+  },
+  {
+   "defense": "shape_100kBps",
+   "attacker": "29",
+   "not_retrained": 0.3333333333333333,
+   "retrained": 0.35555555555555557,
+   "shuffled": 0.3325,
+   "p": 0.35323383084577115,
+   "holds": true,
+   "extra_mb": 0.6611891222222223,
+   "median_delay_s": 1.418951,
+   "max_delay_s": 9.859038000000002,
+   "unsent_mb": 0.04011821111111111
+  },
+  {
+   "defense": "shape_100kBps",
+   "attacker": "133",
+   "not_retrained": 0.3333333333333333,
+   "retrained": 0.2111111111111111,
+   "shuffled": 0.3373333333333333,
+   "p": 0.9950248756218906,
+   "holds": true,
+   "extra_mb": 0.6611891222222223,
+   "median_delay_s": 1.418951,
+   "max_delay_s": 9.859038000000002,
+   "unsent_mb": 0.04011821111111111
+  },
+  {
+   "defense": "shape_200kBps",
+   "attacker": "29",
+   "not_retrained": 0.3333333333333333,
+   "retrained": 0.35555555555555557,
+   "shuffled": 0.3252777777777778,
+   "p": 0.2935323383084577,
+   "holds": true,
+   "extra_mb": 2.6617891222222223,
+   "median_delay_s": 0.0,
+   "max_delay_s": 9.416891999999999,
+   "unsent_mb": 0.015003266666666666
+  },
+  {
+   "defense": "shape_200kBps",
+   "attacker": "133",
+   "not_retrained": 0.3333333333333333,
+   "retrained": 0.25555555555555554,
+   "shuffled": 0.32794444444444437,
+   "p": 0.945273631840796,
+   "holds": true,
+   "extra_mb": 2.6617891222222223,
+   "median_delay_s": 0.0,
+   "max_delay_s": 9.416891999999999,
+   "unsent_mb": 0.015003266666666666
+  }
+ ]
+}

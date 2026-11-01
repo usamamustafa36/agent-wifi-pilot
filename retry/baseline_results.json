@@ -1,0 +1,58 @@
+[
+ {
+  "name": "agent tasks | real packets",
+  "n": 90,
+  "acc": 0.9222222222222223,
+  "shuffled_mean": 0.31446666666666667,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "agent tasks | simulated trace",
+  "n": 90,
+  "acc": 0.7444444444444445,
+  "shuffled_mean": 0.3285777777777778,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "non-AI control | real packets",
+  "n": 120,
+  "acc": 0.9583333333333334,
+  "shuffled_mean": 0.22638333333333333,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "non-AI control | simulated trace",
+  "n": 120,
+  "acc": 0.9666666666666667,
+  "shuffled_mean": 0.23508333333333334,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "all seven | real packets",
+  "n": 210,
+  "acc": 0.8571428571428571,
+  "shuffled_mean": 0.12849523809523808,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "all seven | simulated trace",
+  "n": 210,
+  "acc": 0.8047619047619048,
+  "shuffled_mean": 0.12999999999999998,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "agent vs idle | real packets",
+  "n": 120,
+  "acc": 0.9916666666666667,
+  "shuffled_mean": 0.7354833333333333,
+  "p": 0.001996007984031936
+ },
+ {
+  "name": "agent vs idle | simulated trace",
+  "n": 120,
+  "acc": 1.0,
+  "shuffled_mean": 0.7206333333333335,
+  "p": 0.001996007984031936
+ }
+]
